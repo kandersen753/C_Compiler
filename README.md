@@ -1,5 +1,5 @@
 # CS 660
-# PA 5, 6, 7, 8, 9, 10: Symbol Table, Lexical Analyzer, Parser, Abstarct Syntax Tree, 3AC, Assembly Generation
+# PA 5, 6, 7, 8, 9, 10: Symbol Table, Lexical Analyzer, Parser, Abstract Syntax Tree, 3AC, Assembly Generation
 
 # Connor Scully-Allison and Kurt Andersen
 ### October 19, 2018
